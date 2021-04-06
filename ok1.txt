@@ -1,5 +1,8 @@
 <<<<<<< HEAD
-Hello world
-great
+<<<<<<< HEAD
+
 =======
 >>>>>>> parent of 18903b3... original mchanges
+=======
+Hello world
+>>>>>>> parent of 8d9bd73... new line
